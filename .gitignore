@@ -1,0 +1,20 @@
+# Archives
+*.zip
+*.rar
+*.jar
+*.7z
+*.dmg
+*.iso
+
+#Logs / databases
+
+*.log
+*.sql
+
+# Systems
+
+desktop.ini
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
