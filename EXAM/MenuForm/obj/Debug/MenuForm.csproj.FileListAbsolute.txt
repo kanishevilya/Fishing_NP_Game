@@ -1,0 +1,6 @@
+E:\Programming\PO\NP\EXAM\EXAM\MenuForm\obj\Debug\MenuForm.csproj.AssemblyReference.cache
+E:\Programming\PO\NP\EXAM\EXAM\MenuForm\obj\Debug\MenuForm.csproj.SuggestedBindingRedirects.cache
+E:\Programming\PO\NP\EXAM\EXAM\MenuForm\obj\Debug\FormMenu.FormMenu.resources
+E:\Programming\PO\NP\EXAM\EXAM\MenuForm\obj\Debug\MenuForm.Properties.Resources.resources
+E:\Programming\PO\NP\EXAM\EXAM\MenuForm\obj\Debug\MenuForm.csproj.GenerateResource.cache
+E:\Programming\PO\NP\EXAM\EXAM\MenuForm\obj\Debug\MenuForm.csproj.CoreCompileInputs.cache
